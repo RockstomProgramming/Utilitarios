@@ -1,4 +1,5 @@
 Esta classe fornece a funcionalidade de converter arquivos no formato HTML em PDF.
+
 Adicione as seguintes dependências:
 <dependency>
 	<groupId>com.itextpdf</groupId>
